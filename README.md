@@ -1,6 +1,6 @@
-# Cloudflare Workers Aabacada版-简单笔记
+# Cloudflare Workers -简单笔记
 
-📒 Aabacada版-简单笔记，基于`Cloudflare-notepad`项目的二次开发 https://github.com/linaut/Cloudflare-notepad
+📒 简单笔记，基于`Cloudflare-notepad`项目的二次开发 https://github.com/linaut/Cloudflare-notepad
 一个部署于 **Cloudflare Workers + KV** 搭建的极简记事本应用
 
 ---
